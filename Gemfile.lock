@@ -69,7 +69,6 @@ GEM
     crass (1.0.6)
     erubi (1.10.0)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
     globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.10.0)
@@ -196,7 +195,7 @@ DEPENDENCIES
   webpacker (~> 5.0)
 
 RUBY VERSION
-   ruby 3.0.0p0
+   ruby 3.0.4p208
 
 BUNDLED WITH
-   2.2.3
+   2.2.33
